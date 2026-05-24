@@ -7,7 +7,7 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--candela-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-candela)
-[![GitHub](https://img.shields.io/badge/GitHub-AlexGtHub-black?style=for-the-badge&logo=github)](https://github.com/AlexGtHub)
+[![GitHub](https://img.shields.io/badge/GitHub-MCandelaAI-black?style=for-the-badge&logo=github)](https://github.com/MCandelaAI)
 
 ---
 
